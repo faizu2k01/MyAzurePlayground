@@ -1,0 +1,11 @@
+Point of Azure app service -
+
+1- A cloud computing platform that allows to host web applications and backend of the applications
+written in any programming technologies, deploys them on windows and linux OS.
+2- Scale up/down - An ability to completly controllable resources, scale up/down means adding veritical 
+computing resouces that means increase into the cpu, ram, memory , cahce etc and other computing stuffs.
+3- Scale in/out - An abiltiy to completly controllable resouces, scale out/in means adding computing resouces horizontlly,
+means inhanceing/dehanceing  the capbilities of existing computing machine instances,resources like CPU cores, GPU, ram size inhancement etc.
+4- Container support - With Azure docker registry or docker hub, images can be pulled to the the azure serives, support containrized applications to host seamlessly, 
+it supports windows contaienrs, docker compose for orchistration (A way to manage, scale, automate the multiple container instences).
+5 - CI/CD - Azure web services supports the CI/CD from multiple locations containers, github code repo, bitbuket, developer machine, 
